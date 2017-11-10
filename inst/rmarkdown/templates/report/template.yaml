@@ -1,0 +1,4 @@
+name: RMarkdown Report
+description: >
+  Template for standard RMarkdown report bundled with RStudio.
+create_dir: false

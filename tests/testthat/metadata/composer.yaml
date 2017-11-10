@@ -1,0 +1,15 @@
+key1: value1_home
+key2: value2_home
+key3: value3_home
+package1:
+  key1: value1_home_package1
+  key2: value2_home_package1
+  template1:
+    key1: value1_home_template1
+    key4: value4_home_template1
+package2:
+  key2: value2_home_package2
+  key5:
+    - value5a_home_package2
+    - value5b_home_package2
+
